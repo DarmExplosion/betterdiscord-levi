@@ -1,18 +1,17 @@
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 @import "https://fontlibrary.org/face/horta"; /* 'HortaRegular' */
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
-/* @import "https://monstrousdev.github.io/themes/addons/filter.css"; */
 @import "https://themonstrousdev.github.io/styles/google-fonts.css";
 
 :root {
-	--theme-name: "Black Hole";
+	--theme-name: "Leviathan!";
   --theme-version: "1.5";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
-  --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
+  --black-hole: url(https://kseeker5.github.io/wallpapers/images/wallpapers/destiny2/Destiny%202%20-%20Leviathan%201.png);
+  --stars: url(https://kseeker5.github.io/wallpapers/images/wallpapers/destiny2/Destiny%202%20-%20Leviathan%201.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
@@ -47,81 +46,11 @@
 
 }
 
-/* ==== TABLE OF CONTENTS ====
-*  ========== STATIC ==========
-*  I. App Window
-*  II. Title Bar
-*  III. Channel Area
-*     A. Channels Header
-*     B. Channel Groups and Individual Channels
-*     C. User Settings and Voice Connection
-*     D. Private Channels
-*     
-*  IV. Guilds Area
-*     A. Guilds Header
-*     B. Guild Styles
-*     C. Guild Folders
-*
-*  V. Pages
-*     A. Main Areas
-*       1. Embeds, Code Blocks, and Invites
-*       2. Login Page
-*       3. Download Discord
-*     B. Members List
-*     C. Top Bar & Typing Status
-*     D. Cards and Tiles
-*     E. Buttons, Switches, and Bars
-*     F. Change SVGs
-*
-*  VI. Top Layers
-*  VII. ScrollBars
-*
-*
-*
-*
-*  ========== MODALS AND POPOUTS ==========
-*  VIII. Menus
-*     A. Server Menu
-*     B. User Status
-*     C. Context Menu
-*     D. Dropdown Menus
-*  IX. Popouts
-*     A. User Popout
-*     B. Message Popout
-*     C. Search Popout & Results
-*     D. Attach Popout, Add Game popout
-*     E. Tooltips & Notices
-*     F. Autocomplete & Everyone Popout
-*     G. Gift Nitro and Gif Picker
-*     H. Emoji Picker
-*     I. Game Preview
-*     J. Add Roles Popout & Roles Overflow
-*     K. RTC Connection
-*     L. Stream Popout
-*     M. Follow Channel
-*     
-*  X. Modals
-*     A. User Modal
-*     B. Upload Modal 
-*     C. Join Guild Modal
-*     D. Messages Modal, Games Download Modal, Screenshare
-*     E. Incoming Call & Phone Verification
-*     F. Reactions Modal & Server Invite Modal
-*     G. Gift Modal
-*  XI. Keyframes
-*  XII. Custom CSS
-*  XIII. Plugin Optimization
-*     A. Ghost Ping
-*     B. Permissions Viewer
-*  XIV. Addon Optimization
-*/
 
-
-/* I. App Window */
 #app-mount,
 .container-2RRFHK,
 .perksModalContentWrapper-2HU6uL {
-  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
+  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/100% fixed;
 }
 
 #app-mount .app-2CXKsg, 
@@ -140,7 +69,7 @@
 }
 
 .titleBar-1it3bQ:not(.typeMacOS-3V4xXE)::after {
-  content: "𐌁𐌋𐌀𐌂𐌊 𐋏𐍈𐌋𐌄";
+  content: "ʟᴇᴠɪᴀᴛʜᴀɴ";
   position: absolute;
   top: 5px;
   left: 10px;
@@ -3278,4 +3207,3 @@ background-attachment: fixed;
 }
 
 /* XIV. Addon Optimization */
-
